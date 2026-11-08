@@ -1,0 +1,5 @@
+cms.apiUrl=https://api.bifrostorbit.com/cms
+cms.publicKey=cms_pk_...
+cms.region=global
+drafts.apiUrl=https://drafts.northwilds.com/cms
+drafts.token=
